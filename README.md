@@ -26,10 +26,7 @@ Topics include:
 
 Command-line game built using Python.
 
-**Project Files:**
-
-- [Project Folder](./Rock-Paper-Scissors)
-- [Source Code](./Rock-Paper-Scissors/Rock_Paper_Scissors.py)
+[View Project](./Rock-Paper-Scissors)
 
 #### Skills Demonstrated
 
