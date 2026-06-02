@@ -6,7 +6,7 @@ Command-line Rock Paper Scissors game built using Python.
 
 This project allows a user to play Rock Paper Scissors against the computer. The computer randomly selects a move, and the program determines the winner based on the game's rules.
 
-## Project Links
+## Project Link
 
 - [Source Code](./Rock_Paper_Scissors.py)
 
