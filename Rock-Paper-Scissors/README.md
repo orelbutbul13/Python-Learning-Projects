@@ -8,7 +8,6 @@ This project allows a user to play Rock Paper Scissors against the computer. The
 
 ## Project Links
 
-- [Python Learning Projects Repository](../)
 - [Source Code](./Rock_Paper_Scissors.py)
 
 ## Features
