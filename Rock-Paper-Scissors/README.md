@@ -29,9 +29,3 @@ This project allows a user to play Rock Paper Scissors against the computer. The
 ## Technologies
 
 - Python
-
-## Project Structure
-
-Rock-Paper-Scissors/
-├── README.md
-└── Rock_Paper_Scissors.py
