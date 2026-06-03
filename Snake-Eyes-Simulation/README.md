@@ -1,21 +1,32 @@
-
 # Snake Eyes Simulation
 
-A simple Python program that simulates rolling two dice until both dice land on 1 (snake eyes).
+Command-line Snake Eyes simulation built using Python.
+
+## Overview
+
+This project simulates rolling two dice until both dice land on 1, also known as "Snake Eyes." The program displays each roll and tracks the total number of attempts required to achieve Snake Eyes.
+
+## Project Files
+
+- [View Source Code](./Snake_Eyes.py)
+
+## Features
+
+- Random dice rolling
+- Continuous simulation using loops
+- Roll counter tracking
+- Console output of each roll
+- Snake Eyes detection
 
 ## Skills Demonstrated
 
-- Python Variables
-- Random Number Generation
+- Variables
 - While Loops
-- Conditional Logic
+- Conditional Statements
+- Random Number Generation
 - Counters
-- String Formatting (f-strings)
+- Program Logic
 
 ## Technologies
 
 - Python
-
-## How It Works
-
-The program continuously rolls two virtual dice and prints the result of each roll. The simulation ends when both dice show 1, and the program reports how many rolls were required to achieve snake eyes.
