@@ -11,6 +11,7 @@ These projects demonstrate core programming concepts, logical thinking, user int
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Rock Paper Scissors](./Rock-Paper-Scissors) | Command-line game demonstrating user input handling, conditional logic, randomization, ASCII art rendering, and game flow control. |
+| 2 | [Snake Eyes Simulation](./Snake-Eyes-Simulation) | Dice rolling simulation demonstrating random number generation, loops, conditional logic, counters, and program flow control by tracking rolls until Snake Eyes is achieved. |
 
 ---
 
@@ -20,7 +21,7 @@ These projects demonstrate core programming concepts, logical thinking, user int
 - **Control Flow** – Conditional statements, loops, and decision-making logic.
 - **Problem Solving** – Breaking down problems into structured, executable solutions.
 - **User Interaction** – Input validation, user prompts, and command-line application development.
-- **Application Logic** – Game mechanics, state management, and program flow control.
+- **Application Logic** – Game mechanics, simulations, state management, and program flow control.
 - **Python Development** – Building practical applications using Python best practices.
 
 ---
