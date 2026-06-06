@@ -16,6 +16,14 @@ These projects demonstrate core programming concepts, logical thinking, user int
 
 ---
 
+## Practice Exercises
+
+| Exercise | Description |
+|-----------|-------------|
+| [Python Exercises](./Exercises) | Collection of exercises covering string iteration, while loops, for loops, range(), user input validation, and conditional logic. |
+
+---
+
 ## Core Competencies
 
 - **Programming Fundamentals** – Variables, data types, operators, and program structure.
