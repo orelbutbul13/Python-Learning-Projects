@@ -14,6 +14,7 @@ These projects demonstrate core programming concepts, logical thinking, user int
 | 2 | [Snake Eyes Simulation](./Snake-Eyes-Simulation) | Dice rolling simulation demonstrating random number generation, loops, conditional logic, counters, and program flow control by tracking rolls until Snake Eyes is achieved. |
 | 3 | [99 Bottles of Beer](./99-Bottles-of-Beer) | Classic programming exercise demonstrating for loops, while loops, conditional logic, string formatting, iteration, and control flow through two separate implementations. |
 | 4 | [Dice Roller](./Dice-Roller) | Command-line dice rolling simulator demonstrating user input handling, loops, random number generation, string formatting, and replay functionality. |
+| 5 | [Toothpick Game](./Toothpick-Game) | Turn-based strategy game demonstrating loops, user input handling, input validation, conditional logic, game state management, and command-line application development. |
 
 ---
 
