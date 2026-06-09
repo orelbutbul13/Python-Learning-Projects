@@ -2,7 +2,7 @@
 
 Collection of Python projects built while learning programming fundamentals, problem-solving techniques, software development principles, and practical application development.
 
-These projects demonstrate core programming concepts, logical thinking, user interaction handling, control flow, data structures, and Python application development.
+These projects demonstrate core programming concepts, logical thinking, user interaction handling, control flow, data structures, and command-line application development.
 
 ---
 
@@ -15,6 +15,7 @@ These projects demonstrate core programming concepts, logical thinking, user int
 | 3 | [99 Bottles of Beer](./99-Bottles-of-Beer) | Classic programming exercise demonstrating for loops, while loops, conditional logic, string formatting, iteration, and control flow through two separate implementations. |
 | 4 | [Dice Roller](./Dice-Roller) | Command-line dice rolling simulator demonstrating user input handling, loops, random number generation, string formatting, and replay functionality. |
 | 5 | [Toothpick Game](./Toothpick-Game) | Turn-based strategy game demonstrating loops, user input handling, input validation, conditional logic, game state management, and command-line application development. |
+| 6 | [Todo List CLI](./Todo-List-CLI) | Command-line task management application demonstrating list manipulation, user input handling, loops, input validation, task tracking, and program flow control. |
 
 ---
 
@@ -22,7 +23,7 @@ These projects demonstrate core programming concepts, logical thinking, user int
 
 | Exercise | Description |
 |-----------|-------------|
-| [Python Exercises](./Exercises) | Collection of exercises covering string iteration, while loops, for loops, range(), user input validation, and conditional logic. |
+| [Python Exercises](./Exercises) | Collection of exercises covering string iteration, list manipulation, while loops, for loops, range(), user input validation, and conditional logic. |
 
 ---
 
@@ -32,7 +33,7 @@ These projects demonstrate core programming concepts, logical thinking, user int
 - **Control Flow** – Conditional statements, loops, and decision-making logic.
 - **Problem Solving** – Breaking down problems into structured, executable solutions.
 - **User Interaction** – Input validation, user prompts, and command-line application development.
-- **Application Logic** – Game mechanics, simulations, state management, and program flow control.
+- **Application Logic** – Game mechanics, simulations, task management, state management, and program flow control.
 - **Python Development** – Building practical applications using Python best practices.
 
 ---
@@ -40,6 +41,6 @@ These projects demonstrate core programming concepts, logical thinking, user int
 ## Technical Stack
 
 - **Programming Language:** Python
-- **Development Concepts:** Control Flow, Functions, Data Structures
+- **Development Concepts:** Control Flow, Functions, Lists, Loops, and Data Structures
 - **Application Types:** Command-Line Applications
 - **Specializations:** Problem Solving, Logic Development, Software Fundamentals
